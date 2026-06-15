@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aquel banco bajo el roble
+
+This log tracks the cryptographic history and versioning for the song **Aquel banco bajo el roble** (aquel-banco-bajo-el-roble).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T12:35:46.533664 | `v1` | `214e7de4ee2bacb43ac4fa4d4980371b5b3424791d72d84d560491456741600e` | `29a18ad0e4bc68c67b5e7179aca679024bbcaf4d5042b081c5ef0516fc81ba96` | `2026-06-15_aquel-banco-bajo-el-roble-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
